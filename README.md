@@ -1,4 +1,4 @@
-# agentcomms <a href="https://discord.gg/qetWd7J9De"><img style="float: right" src="https://dcbadge.vercel.app/api/server/qetWd7J9De" alt=""></a>
+# agentcomms
 
 Connectors for your agent to the outside world.
 
@@ -412,5 +412,3 @@ content = get_file("test.txt")
 # Contributions Welcome
 
 If you like this library and want to contribute in any way, please feel free to submit a PR and I will review it. Please note that the goal here is simplicity and accesibility, using common language and few dependencies.
-
-<img src="resources/youcreatethefuture.jpg">
